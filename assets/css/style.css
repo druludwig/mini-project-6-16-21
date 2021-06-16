@@ -9,14 +9,17 @@ a{
     margin: 0px;
 }
 
-section{
-    background-color: violet;
+.section{
+    position: relative;
+    margin:auto;
+    text-align: center;
 }
 
 .section-contact{
-    background-color:tomato;
+    background-color:rgb(212, 176, 135);
     border-top: 10px solid;
     border-color: #b7a57a;
+    text-align: center;
 }
 
 .header{
@@ -38,4 +41,4 @@ section{
     position: absolute;
     margin: 0px;
     right: 75px;
-}
+}   
