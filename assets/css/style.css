@@ -1,0 +1,41 @@
+body{
+    font-size: 12px;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+    color: white;
+    margin: 0px;
+}
+
+section{
+    background-color: violet;
+}
+
+.section-contact{
+    background-color:tomato;
+    border-top: 10px solid;
+    border-color: #b7a57a;
+}
+
+.header{
+    position: relative;
+    background-color: #4b2e83;
+    color: white;
+    padding: 35px;
+    border-bottom: 20px solid;
+    border-color: #b7a57a; 
+}
+
+.navigation-link{
+    font-size: 16px;
+    margin: 0px 20px 0px 0px;
+    color: white; 
+}
+
+#nav-bar{
+    position: absolute;
+    margin: 0px;
+    right: 75px;
+}
